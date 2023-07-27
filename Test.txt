@@ -1,1 +1,2 @@
-This is a test .txt file
+This is a test .txt file.
+This is the new statement in the main brach, after the new brach "Dev" has closed from "main" brach.
